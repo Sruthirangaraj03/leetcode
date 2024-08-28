@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Sruthirangaraj03/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sruthirangaraj03/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sruthirangaraj03/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Counting
 |  |
 | ------- |
