@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/0088-merge-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Sruthirangaraj03/leetcode/tree/master/1168-duplicate-zeros) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1603-running-sum-of-1d-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Sruthirangaraj03/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthirangaraj03/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sruthirangaraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
