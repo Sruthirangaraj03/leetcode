@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
 | [0941-sort-array-by-parity](https://github.com/Sruthirangaraj03/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/Sruthirangaraj03/leetcode/tree/master/1168-duplicate-zeros) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sruthirangaraj03/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sruthirangaraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sruthirangaraj03/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Trie
 |  |
