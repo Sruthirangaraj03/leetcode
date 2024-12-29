@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sruthirangaraj03/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sruthirangaraj03/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sruthirangaraj03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sruthirangaraj03/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sruthirangaraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
