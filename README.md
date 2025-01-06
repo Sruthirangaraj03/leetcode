@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1603-running-sum-of-1d-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Sruthirangaraj03/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthirangaraj03/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sruthirangaraj03/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Sruthirangaraj03/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/Sruthirangaraj03/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthirangaraj03/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sruthirangaraj03/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sruthirangaraj03/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sruthirangaraj03/leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Sruthirangaraj03/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/Sruthirangaraj03/leetcode/tree/master/1168-duplicate-zeros) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sruthirangaraj03/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sruthirangaraj03/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sruthirangaraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Counting
