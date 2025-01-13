@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Sruthirangaraj03/leetcode/tree/master/1168-duplicate-zeros) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sruthirangaraj03/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Sruthirangaraj03/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sruthirangaraj03/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sruthirangaraj03/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sruthirangaraj03/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
