@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sruthirangaraj03/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-sort-array-by-parity](https://github.com/Sruthirangaraj03/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sruthirangaraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/Sruthirangaraj03/leetcode/tree/master/1168-duplicate-zeros) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Sruthirangaraj03/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sruthirangaraj03/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sruthirangaraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sruthirangaraj03/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Sruthirangaraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sruthirangaraj03/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sruthirangaraj03/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sruthirangaraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sruthirangaraj03/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
