@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sruthirangaraj03/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Trie
