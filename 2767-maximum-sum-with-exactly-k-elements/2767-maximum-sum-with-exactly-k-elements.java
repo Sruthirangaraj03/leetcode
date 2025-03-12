@@ -5,8 +5,8 @@ class Solution {
         if(max<nums[i]) max=nums[i];
     }
     for(int i=0;i<k;i++){
-        sum=sum+max;
-        max=max+1;
+        sum +=max;
+        max++;
     }
     return sum; 
     }
