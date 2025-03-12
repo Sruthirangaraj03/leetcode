@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sruthirangaraj03/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sruthirangaraj03/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sruthirangaraj03/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1791-richest-customer-wealth](https://github.com/Sruthirangaraj03/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthirangaraj03/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -140,5 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sruthirangaraj03/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2551-apply-operations-to-an-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sruthirangaraj03/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
