@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sruthirangaraj03/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sruthirangaraj03/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sruthirangaraj03/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Sruthirangaraj03/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Sruthirangaraj03/leetcode/tree/master/0792-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sruthirangaraj03/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sruthirangaraj03/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Sruthirangaraj03/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Sruthirangaraj03/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sruthirangaraj03/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sruthirangaraj03/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sruthirangaraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthirangaraj03/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sruthirangaraj03/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sruthirangaraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sruthirangaraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0268-missing-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sruthirangaraj03/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Trie
 |  |
@@ -140,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sruthirangaraj03/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
